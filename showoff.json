@@ -1,0 +1,13 @@
+{ 
+  "name": "Managing Dependencies", 
+  "sections": [ 
+    {"section":"intro"},
+    {"section":"what-is-a-dependency"},
+    {"section":"identifying-dependencies"},
+    {"section":"consequences-of-coupling"},
+    {"section":"types-of-coupling"},
+    {"section":"reducing-coupling"},
+    {"section":"specific-examples"},
+    {"section":"ending"}
+  ]
+}
